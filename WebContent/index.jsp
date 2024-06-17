@@ -36,7 +36,5 @@ align:center;
 	
 <%@ include file="footer.jsp" %>
 	
-	
-
 </body>
 </html>
